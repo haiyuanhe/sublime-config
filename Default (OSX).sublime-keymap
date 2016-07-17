@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+super+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+super+6"], "command": "save_evernote_note", "context": [{"key": "evernote_note"}, {"key": "evernote_has_guid"}] },
+    { "keys": ["ctrl+super+6"], "command": "send_to_evernote", "context": [{"key": "evernote_note"}, {"key": "evernote_has_guid", "operator": "equal", "operand": false}] }
+
+]

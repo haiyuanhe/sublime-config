@@ -1,0 +1,23 @@
+{
+	"Seti_sidebar_font_size_12": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"create_window_at_startup": false,
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 4.8,
+	"line_padding_top": 4.8,
+	"open_files_in_new_window": false,
+	"show_encoding": true,
+	"tab_size": 2,
+	"theme": "Seti_orig.sublime-theme",
+	"word_wrap": true
+}

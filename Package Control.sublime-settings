@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Evernote",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Schemr",
+		"Seti_UI",
+		"Seti_UX",
+		"Themr"
+	]
+}
